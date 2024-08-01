@@ -1,4 +1,5 @@
 <template>
+
   <div>
     <textarea v-model="dynamicMessage" />
     <p>{{ dynamicMessage }}</p>
